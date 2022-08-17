@@ -1,6 +1,11 @@
 <h1 align="center">Hi there👋, I'm <a href="https://t.me/nicknotknack">Nick</a>!</h1>
 <h3 align="center">A blockchain developer from Ukraine.</h3>
-<p align="center">d9ffaca46d5990ec39501bcdf22ee7a1</p>
+<p align="center">6+ years of experience as a blockchain developer, I have developed a broad intelligence for identifying opportunities, strategic ingenuity and a negotiating prowess to efficiently press initiatives forward. My comprehensive experience spans into numerous sectors including eCommerce, finance, network security and crypto. 
+ </br>
+Having heavy technology knowledge in my background, involved with technologies before they become mainstream. This technology understanding has improved incremental revenue and the P&L's for every organization that I have had decision making capabilities in.
+</br>
+Now working on my Blockchain Developer YouTube channel, where i show to other devs how to work with web3 and blockchain. Now we mainly work with the Solana blockchain, where i newbie, but i'm in love with it ❤️. We create dapps that help Solana users to complete any tasks. Whether it's minting nft, changing metadata, creating SPL tokens, DEFI, gambling, games or anything else. In this way I want to gather an audience and train people in Solidity and ETH development, which I am a professional in.
+</p>
 
 <p align="center">Check out my <a href="https://chaindevs.com/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
 <p align="center">
