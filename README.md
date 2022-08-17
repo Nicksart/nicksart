@@ -1,8 +1,9 @@
 <h1 align="center">Hi there👋, I'm <a href="https://t.me/nicknotknack">Nick</a>!</h1>
 <h3 align="center">A blockchain developer from Ukraine.</h3>
 <p align="center">6+ years of experience as a blockchain developer, I have developed a broad intelligence for identifying opportunities, strategic ingenuity and a negotiating prowess to efficiently press initiatives forward. My comprehensive experience spans into numerous sectors including eCommerce, finance, network security and crypto.</p> 
+![alt text](https://pbs.twimg.com/media/FZj0aFYXkAAT4jp?format=jpg&name=large)
 <p align="center">
-Now working on my Blockchain Developer YouTube channel, where i show to other devs how to work with web3 and blockchain. Now we mainly work with the Solana blockchain, where i newbie, but i'm in love with it ❤️. We create dapps that help Solana users to complete any tasks. Whether it's minting nft, changing metadata, creating SPL tokens, DEFI, gambling, games or anything else. In this way I want to gather an audience and train people in Solidity and ETH development, which I am a professional in.
+Now working on my <a href="https://www.youtube.com/c/blockchaindeveloper">Blockchain Developer YouTube channel</a>, where i show to other devs how to work with web3 and blockchain. Now we mainly work with the Solana blockchain, where i newbie, but i'm in love with it ❤️. We create dapps that help Solana users to complete any tasks. Whether it's minting nft, changing metadata, creating SPL tokens, DEFI, gambling, games or anything else. In this way I want to gather an audience and train people in Solidity and ETH development, which I am a professional in.
 </p>
 
 <p align="center">Check out my <a href="https://chaindevs.com/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
@@ -15,9 +16,10 @@ Now working on my Blockchain Developer YouTube channel, where i show to other de
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
+<a href="https://www.t.me/nicknotknack/><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="https://www.youtube.com/c/blockchaindeveloper/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/nicksem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/nicknotknack"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://www.tiktok.com/@blockhain_developer"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a> 
   <a href="https://twitter.com/nicknewermore"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:nicknewermore@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
